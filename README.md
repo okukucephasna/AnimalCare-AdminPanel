@@ -1,7 +1,4 @@
-Perfect 👍 — since your project **doesn’t use Docker** and instead uses a **PostgreSQL database**, here’s a **clean, corrected GitHub README.md** tailored exactly to your current setup.
-
 This version assumes:
-
 * Backend → **Flask (Python)** connected to **PostgreSQL**
 * Frontend → **React + Bootstrap**
 * Communication via REST API (`/diseases` routes)
